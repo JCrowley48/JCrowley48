@@ -4,6 +4,10 @@
   - [Active Directory Home Lab](https://github.com/JCrowley48/LABURL)
 
 
+<!---><h2> Certifications:</h2>
+
+  <!-->- [Active Directory Home Lab](https://github.com/JCrowley48/LABURL)
+
 
 <h2> 🤳 Connect with me:</h2>
 
